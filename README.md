@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/e9gbmdp5k9b404qu/branch/main?svg=true)](https://ci.appveyor.com/project/bombik815/ra-redux-editing/branch/main)
 
 [Редактирование](https://bombik815.github.io/ra-redux-editing/)
 
